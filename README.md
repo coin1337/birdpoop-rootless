@@ -1,4 +1,4 @@
-# BirdPoop
+### Bird Poop Installation Guide
 
 ### *install using Filza Scripts, **NOT** a package manager like Sileo or Zebra.*
 
